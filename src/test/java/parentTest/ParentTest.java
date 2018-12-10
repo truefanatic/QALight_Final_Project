@@ -5,14 +5,15 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import pages.MainPage;
+import pages.LoginPage;
+
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 public class ParentTest {
     private WebDriver webDriver;
-    protected MainPage mainPage;
+    protected LoginPage loginPage;
 
     @Before
     public void setUp() {
@@ -21,13 +22,13 @@ public class ParentTest {
         webDriver = new ChromeDriver();
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        mainPage = new MainPage(webDriver);
+        loginPage = new LoginPage(webDriver);
     }
 
-    @After
-    public void tearDown() {
-        webDriver.quit();
-    }
+//    @After
+//    public void tearDown() {
+//        webDriver.quit();
+//    }
 
 //    private void checkExpectedResult(String message, boolean actualResult, boolean expectedResult) {
 //        Assert.assertEquals(message, expectedResult, actualResult);

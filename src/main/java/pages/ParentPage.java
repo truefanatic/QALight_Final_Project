@@ -1,16 +1,19 @@
 package pages;
 
+import libs.ActionsWithOurElements;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-abstract class ParentPage {
+abstract public class ParentPage {
     WebDriver webDriver;
     Logger logger = Logger.getLogger(getClass());
+    ActionsWithOurElements actionsWithOurElements;
 
-    ParentPage(WebDriver webDriver) {
+    public ParentPage(WebDriver webDriver) {
         this.webDriver = webDriver;
         PageFactory.initElements(webDriver, this); //Initializes all find BY
+        actionsWithOurElements = new ActionsWithOurElements(webDriver);
     }
 
 }

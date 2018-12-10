@@ -4,3 +4,29 @@
 2018-30-11 01:52:38  ERROR [pages.MainPage] : Can't click button
 2018-30-11 02:03:30  INFO [pages.MainPage] : Site has been opened
 2018-30-11 02:03:31  ERROR [pages.MainPage] : Can't click button
+2018-10-12 03:37:18  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 03:37:23  ERROR [libs.ActionsWithOurElements] : Can't work with element
+2018-10-12 03:58:32  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 03:58:39  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-10-12 03:58:39  INFO [libs.ActionsWithOurElements] : 4mysts@gmail.com was inputted into Input
+2018-10-12 03:58:39  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-10-12 03:58:40  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7be920cc4233d747033f70e55c5b582a)] -> id: signInSubmit] Element was clicked
+2018-10-12 03:58:40  INFO [pages.LoginPage] : login successfully
+2018-10-12 03:59:32  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 03:59:38  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-10-12 03:59:38  INFO [libs.ActionsWithOurElements] : 4mysts@gmail.com was inputted into Input
+2018-10-12 03:59:38  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-10-12 03:59:39  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7bf6739c7a18f2144dd9af6ad1649d12)] -> id: signInSubmit] Element was clicked
+2018-10-12 03:59:39  INFO [pages.LoginPage] : login successfully
+2018-10-12 04:00:16  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 04:00:22  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-10-12 04:00:22  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-10-12 04:00:22  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-10-12 04:00:24  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (d9c917f29456b31a1f1955ec220c7a8f)] -> id: signInSubmit] Element was clicked
+2018-10-12 04:00:24  INFO [pages.LoginPage] : login successfully
+2018-10-12 04:03:05  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 04:03:11  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-10-12 04:03:11  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-10-12 04:03:11  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-10-12 04:03:18  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-10-12 04:03:18  INFO [pages.LoginPage] : login successfully
