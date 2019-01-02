@@ -1,10 +1,9 @@
-package login;
+package wishlist;
 
-import org.junit.Assert;
 import org.junit.Test;
 import parentTest.ParentTest;
 
-public class Login extends ParentTest {
+public class WishList extends ParentTest {
     @Test
     public void start() {
         mainPage.openSite();
@@ -12,8 +11,6 @@ public class Login extends ParentTest {
         mainPage.login("4mytst@gmail.com", "test4tst");
         mainPage.searchItem("1984 george orwell hardcover");
         mainPage.clickFirstItem();
-        Assert.assertEquals("Search Failed", itemPage.checkItemHeader(), "Nineteen Eighty-Four");
+        itemPage.createWishList("My list");
     }
-
-
 }

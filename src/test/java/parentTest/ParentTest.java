@@ -1,11 +1,12 @@
 package parentTest;
 
-import org.junit.After;
+import com.gargoylesoftware.htmlunit.Page;
 import org.junit.Assert;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import pages.LoginPage;
+import pages.ItemPage;
+import pages.MainPage;
 
 
 import java.io.File;
@@ -13,7 +14,8 @@ import java.util.concurrent.TimeUnit;
 
 public class ParentTest {
     private WebDriver webDriver;
-    protected LoginPage loginPage;
+    protected MainPage mainPage;
+    protected ItemPage itemPage;
 
     @Before
     public void setUp() {
@@ -22,7 +24,8 @@ public class ParentTest {
         webDriver = new ChromeDriver();
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        loginPage = new LoginPage(webDriver);
+        mainPage = new MainPage(webDriver);
+        itemPage = new ItemPage(webDriver);
     }
 
 //    @After
@@ -30,11 +33,11 @@ public class ParentTest {
 //        webDriver.quit();
 //    }
 
-//    private void checkExpectedResult(String message, boolean actualResult, boolean expectedResult) {
-//        Assert.assertEquals(message, expectedResult, actualResult);
-//    }
-//
-//    private void checkExpectedResult(String message, boolean actualResult) {
-//        checkExpectedResult(message, actualResult, true);
-//    }
+    public void checkExpectedResult(String message, boolean actualResult, boolean expectedResult) {
+        Assert.assertEquals(message, expectedResult, actualResult);
+    }
+
+    public void checkExpectedResult(String message, boolean actualResult) {
+        checkExpectedResult(message, actualResult, true);
+    }
 }

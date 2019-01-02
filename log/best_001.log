@@ -4,29 +4,317 @@
 2018-30-11 01:52:38  ERROR [pages.MainPage] : Can't click button
 2018-30-11 02:03:30  INFO [pages.MainPage] : Site has been opened
 2018-30-11 02:03:31  ERROR [pages.MainPage] : Can't click button
-2018-10-12 03:37:18  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 03:37:18  INFO [pages.MainPage] : Site has been opened
 2018-10-12 03:37:23  ERROR [libs.ActionsWithOurElements] : Can't work with element
-2018-10-12 03:58:32  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 03:58:32  INFO [pages.MainPage] : Site has been opened
 2018-10-12 03:58:39  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
 2018-10-12 03:58:39  INFO [libs.ActionsWithOurElements] : 4mysts@gmail.com was inputted into Input
 2018-10-12 03:58:39  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
 2018-10-12 03:58:40  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7be920cc4233d747033f70e55c5b582a)] -> id: signInSubmit] Element was clicked
-2018-10-12 03:58:40  INFO [pages.LoginPage] : login successfully
-2018-10-12 03:59:32  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 03:58:40  INFO [pages.MainPage] : login successfully
+2018-10-12 03:59:32  INFO [pages.MainPage] : Site has been opened
 2018-10-12 03:59:38  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
 2018-10-12 03:59:38  INFO [libs.ActionsWithOurElements] : 4mysts@gmail.com was inputted into Input
 2018-10-12 03:59:38  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
 2018-10-12 03:59:39  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7bf6739c7a18f2144dd9af6ad1649d12)] -> id: signInSubmit] Element was clicked
-2018-10-12 03:59:39  INFO [pages.LoginPage] : login successfully
-2018-10-12 04:00:16  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 03:59:39  INFO [pages.MainPage] : login successfully
+2018-10-12 04:00:16  INFO [pages.MainPage] : Site has been opened
 2018-10-12 04:00:22  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
 2018-10-12 04:00:22  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
 2018-10-12 04:00:22  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
 2018-10-12 04:00:24  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (d9c917f29456b31a1f1955ec220c7a8f)] -> id: signInSubmit] Element was clicked
-2018-10-12 04:00:24  INFO [pages.LoginPage] : login successfully
-2018-10-12 04:03:05  INFO [pages.LoginPage] : Site has been opened
+2018-10-12 04:00:24  INFO [pages.MainPage] : login successfully
+2018-10-12 04:03:05  INFO [pages.MainPage] : Site has been opened
 2018-10-12 04:03:11  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
 2018-10-12 04:03:11  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
 2018-10-12 04:03:11  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
 2018-10-12 04:03:18  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
-2018-10-12 04:03:18  INFO [pages.LoginPage] : login successfully
+2018-10-12 04:03:18  INFO [pages.MainPage] : login successfully
+2018-29-12 00:45:53  INFO [pages.MainPage] : Site has been opened
+2018-29-12 00:45:59  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 00:45:59  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 00:45:59  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 00:46:07  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 00:46:07  INFO [pages.MainPage] : login successfully
+2018-29-12 01:17:29  INFO [pages.MainPage] : Site has been opened
+2018-29-12 01:17:35  ERROR [libs.ActionsWithOurElements] : Can't work with element: [[ChromeDriver: chrome on XP (ae660ed9c1fad773101af1e793365f21)] -> xpath: //*[@id="nav-flyout-ya-signin"]/a/span]
+2018-29-12 01:18:03  INFO [pages.MainPage] : Site has been opened
+2018-29-12 01:18:10  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 01:18:10  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 01:18:10  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 01:18:17  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 01:18:17  INFO [pages.MainPage] : login successfully
+2018-29-12 01:37:12  INFO [pages.MainPage] : Site has been opened
+2018-29-12 01:37:18  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 01:37:18  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 01:37:18  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 01:37:25  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 01:37:25  INFO [pages.MainPage] : login successfully
+2018-29-12 01:37:25  INFO [libs.ActionsWithOurElements] : Amazon Kindle Paperwhite was inputted into Input
+2018-29-12 01:41:01  INFO [pages.MainPage] : Site has been opened
+2018-29-12 01:41:08  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 01:41:08  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 01:41:08  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 01:41:15  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 01:41:15  INFO [pages.MainPage] : login successfully
+2018-29-12 01:41:15  INFO [libs.ActionsWithOurElements] : Amazon Kindle Paperwhite was inputted into Input
+2018-29-12 01:41:15  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (0db21217f4e4792233bd1e1dcd2b53a7)] -> id: nav-search] Element was clicked
+2018-29-12 01:43:49  INFO [pages.MainPage] : Site has been opened
+2018-29-12 01:43:55  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 01:43:55  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 01:43:56  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 01:44:02  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 01:44:02  INFO [pages.MainPage] : login successfully
+2018-29-12 01:44:03  INFO [libs.ActionsWithOurElements] : Amazon Kindle Paperwhite was inputted into Input
+2018-29-12 01:44:05  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (5b70701a0ac77176615eeb6a3e6d431f)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 01:44:59  INFO [pages.MainPage] : Site has been opened
+2018-29-12 01:45:05  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 01:45:05  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 01:45:05  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 01:45:12  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 01:45:12  INFO [pages.MainPage] : login successfully
+2018-29-12 01:45:12  INFO [libs.ActionsWithOurElements] : Amazon Kindle Paperwhite was inputted into Input
+2018-29-12 01:45:14  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3d5570131a37256d40d5820e20ce7dfc)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:12:29  INFO [pages.MainPage] : Site has been opened
+2018-29-12 02:12:37  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 02:12:38  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 02:12:38  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 02:12:49  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 02:12:49  INFO [pages.MainPage] : login successfully
+2018-29-12 02:12:49  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 02:12:56  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (aa33690d3e38f7f44a02fe48a9d09ffd)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:16:36  INFO [pages.MainPage] : Site has been opened
+2018-29-12 02:16:43  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 02:16:43  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 02:16:43  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 02:16:50  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 02:16:50  INFO [pages.MainPage] : login successfully
+2018-29-12 02:16:50  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 02:16:53  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (55f34af2a1f9365be2156391b1f6eb50)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:17:02  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 02:21:29  INFO [pages.MainPage] : Site has been opened
+2018-29-12 02:21:46  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 02:21:47  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 02:21:47  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 02:21:58  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 02:21:58  INFO [pages.MainPage] : login successfully
+2018-29-12 02:21:58  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 02:22:06  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (54dbd11f4b47b1f1ef5c857ac40ff60a)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:22:20  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 02:27:14  INFO [pages.MainPage] : Site has been opened
+2018-29-12 02:27:20  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 02:27:20  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 02:27:20  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 02:27:27  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 02:27:27  INFO [pages.MainPage] : login successfully
+2018-29-12 02:27:27  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 02:27:30  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (bc6b30cbad2e739d6e94eb480e4e7a72)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:27:39  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 02:36:20  INFO [pages.MainPage] : Site has been opened
+2018-29-12 02:36:27  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 02:36:27  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 02:36:27  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 02:36:39  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 02:36:39  INFO [pages.MainPage] : login successfully
+2018-29-12 02:36:39  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 02:36:46  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (fc7ae7944036e6c25f66959f9aa9e8fb)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:37:00  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 02:41:30  INFO [pages.MainPage] : Site has been opened
+2018-29-12 02:41:36  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 02:41:36  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 02:41:36  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 02:41:43  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 02:41:43  INFO [pages.MainPage] : login successfully
+2018-29-12 02:41:43  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 02:41:46  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (0ccd9273942717969bee11f6fff53f63)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:41:54  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 02:43:19  INFO [pages.MainPage] : Site has been opened
+2018-29-12 02:43:25  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 02:43:25  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 02:43:25  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 02:43:32  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 02:43:32  INFO [pages.MainPage] : login successfully
+2018-29-12 02:43:32  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 02:43:35  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ad6d04d05c2a738ac0771f4b3f529fbe)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:43:44  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 02:51:15  INFO [pages.MainPage] : Site has been opened
+2018-29-12 02:51:21  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 02:51:21  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 02:51:21  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 02:51:28  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 02:51:28  INFO [pages.MainPage] : login successfully
+2018-29-12 02:51:28  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 02:51:32  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (68bb07e76f3236934914c79233feb81e)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 02:51:40  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:04:36  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:04:42  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:04:42  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:04:42  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:04:49  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:04:49  INFO [pages.MainPage] : login successfully
+2018-29-12 03:04:49  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:04:52  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (b53d9d0c00c689e75fed93dda01e1d8f)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:05:01  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:10:27  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:10:33  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:10:33  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:10:33  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:10:40  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:10:40  INFO [pages.MainPage] : login successfully
+2018-29-12 03:10:40  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:10:43  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f15ce3ec1132148e498ef8752b133cee)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:10:51  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:13:27  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:13:45  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:13:45  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:13:45  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:13:57  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:13:57  INFO [pages.MainPage] : login successfully
+2018-29-12 03:13:57  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:14:04  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (e4689357720fad1ca4528acffe37e03b)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:14:17  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:21:46  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:21:52  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:21:52  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:21:52  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:21:59  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:21:59  INFO [pages.MainPage] : login successfully
+2018-29-12 03:21:59  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:22:02  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (381d06d83b298b8e3c409a82c135f1e4)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:22:10  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:23:00  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:23:06  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:23:06  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:23:06  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:23:13  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:23:13  INFO [pages.MainPage] : login successfully
+2018-29-12 03:23:13  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:23:15  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (af8ca2b5dc7439f327c54d7c9a3b2ea8)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:23:24  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:24:09  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:24:16  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:24:16  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:24:16  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:24:23  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:24:23  INFO [pages.MainPage] : login successfully
+2018-29-12 03:24:23  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:24:26  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (899293f0e58745547b49908828bfde52)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:24:34  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:34:46  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:34:53  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:34:53  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:34:53  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:35:00  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:35:00  INFO [pages.MainPage] : login successfully
+2018-29-12 03:35:00  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:35:03  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (069ec626fd2037e7fb817f7ea7a3f870)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:35:12  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:35:50  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:35:56  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:35:57  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:35:57  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:36:04  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:36:04  INFO [pages.MainPage] : login successfully
+2018-29-12 03:36:04  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:36:07  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (cfef8e00e16a09e43c42d7aaee6dfd2b)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:36:15  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:44:55  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:45:02  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:45:02  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:45:02  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:45:09  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:45:09  INFO [pages.MainPage] : login successfully
+2018-29-12 03:45:09  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:45:12  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39f314774a9fafdc10dc3b2d6394f2fa)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:45:20  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 03:52:18  INFO [pages.MainPage] : Site has been opened
+2018-29-12 03:52:35  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 03:52:35  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 03:52:35  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 03:52:47  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 03:52:47  INFO [pages.MainPage] : login successfully
+2018-29-12 03:52:47  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 03:52:55  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (77e4b153f55e068477048cf47f929acf)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 03:53:08  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 04:49:34  INFO [pages.MainPage] : Site has been opened
+2018-29-12 04:49:41  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 04:49:41  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 04:49:41  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 04:49:48  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 04:49:48  INFO [pages.MainPage] : login successfully
+2018-29-12 04:49:48  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 04:49:51  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (6cffa97a5d308d74f4bf525c6a654d73)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 04:50:00  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 04:50:17  INFO [pages.MainPage] : Site has been opened
+2018-29-12 04:50:23  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 04:50:23  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 04:50:23  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 04:50:30  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 04:50:30  INFO [pages.MainPage] : login successfully
+2018-29-12 04:50:30  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 04:50:33  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (80a754cb107ff92ce6b0983a913b2ab0)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 04:50:41  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 04:50:41  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (80a754cb107ff92ce6b0983a913b2ab0)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2018-29-12 04:50:42  ERROR [libs.ActionsWithOurElements] : Can't work with element: [[ChromeDriver: chrome on XP (80a754cb107ff92ce6b0983a913b2ab0)] -> xpath: //*[@id='WLNEW_list_type_WL']]
+2018-29-12 04:52:21  INFO [pages.MainPage] : Site has been opened
+2018-29-12 04:52:28  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 04:52:28  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 04:52:28  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 04:52:35  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 04:52:35  INFO [pages.MainPage] : login successfully
+2018-29-12 04:52:35  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 04:52:38  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c99c933cacb9002099aaa73477af77b3)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 04:52:47  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 04:52:47  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c99c933cacb9002099aaa73477af77b3)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2018-29-12 04:52:48  ERROR [libs.ActionsWithOurElements] : Can't work with element: [[ChromeDriver: chrome on XP (c99c933cacb9002099aaa73477af77b3)] -> xpath: //*[@id='WLNEW_privacy_private-announce']]
+2018-29-12 04:53:44  INFO [pages.MainPage] : Site has been opened
+2018-29-12 04:53:50  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 04:53:51  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 04:53:51  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 04:53:58  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 04:53:58  INFO [pages.MainPage] : login successfully
+2018-29-12 04:53:58  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 04:54:00  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (b11ebfd39bae2d8edd9a6458b79ae317)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 04:54:09  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 04:54:09  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (b11ebfd39bae2d8edd9a6458b79ae317)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2018-29-12 04:54:09  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2018-29-12 04:54:09  ERROR [libs.ActionsWithOurElements] : Can't work with element: [[ChromeDriver: chrome on XP (b11ebfd39bae2d8edd9a6458b79ae317)] -> xpath: //*[text()='Create List']]
+2018-29-12 05:00:23  INFO [pages.MainPage] : Site has been opened
+2018-29-12 05:00:29  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 05:00:29  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 05:00:29  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 05:00:36  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 05:00:36  INFO [pages.MainPage] : login successfully
+2018-29-12 05:00:36  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 05:00:39  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (aa01789c6deac7a48d77ffaa9bc73896)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 05:00:48  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 05:00:48  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (aa01789c6deac7a48d77ffaa9bc73896)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2018-29-12 05:00:49  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (aa01789c6deac7a48d77ffaa9bc73896)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2018-29-12 05:00:49  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (aa01789c6deac7a48d77ffaa9bc73896)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2018-29-12 05:00:49  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2018-29-12 05:00:49  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (aa01789c6deac7a48d77ffaa9bc73896)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2018-29-12 05:51:15  INFO [pages.MainPage] : Site has been opened
+2018-29-12 05:51:22  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 05:51:22  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 05:51:22  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 05:51:29  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 05:51:29  INFO [pages.MainPage] : login successfully
+2018-29-12 05:51:29  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 05:51:33  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ae2265cd97a9aa59a92a04e492d5ea59)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 05:51:42  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 05:51:42  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ae2265cd97a9aa59a92a04e492d5ea59)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2018-29-12 05:51:57  ERROR [libs.ActionsWithOurElements] : Can't work with element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i'
+2018-29-12 05:53:14  INFO [pages.MainPage] : Site has been opened
+2018-29-12 05:53:21  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2018-29-12 05:53:21  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2018-29-12 05:53:21  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2018-29-12 05:53:28  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2018-29-12 05:53:28  INFO [pages.MainPage] : login successfully
+2018-29-12 05:53:28  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2018-29-12 05:53:31  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (0f60f1c9baa0b1b563b477b4e797fdfc)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2018-29-12 05:53:39  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2018-29-12 05:53:39  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (0f60f1c9baa0b1b563b477b4e797fdfc)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2018-29-12 05:53:40  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (0f60f1c9baa0b1b563b477b4e797fdfc)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2018-29-12 05:53:40  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (0f60f1c9baa0b1b563b477b4e797fdfc)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2018-29-12 05:53:40  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2018-29-12 05:53:40  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (0f60f1c9baa0b1b563b477b4e797fdfc)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
