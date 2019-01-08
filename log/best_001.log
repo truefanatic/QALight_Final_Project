@@ -462,3 +462,288 @@
 2019-08-01 04:53:55  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f4d2b49344457764c33347bde2be575e)] -> xpath: //*[@id='editYourList']] Element was clicked
 2019-08-01 04:53:55  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f4d2b49344457764c33347bde2be575e)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
 2019-08-01 04:53:56  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f4d2b49344457764c33347bde2be575e)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 11:51:40  INFO [pages.MainPage] : Site has been opened
+2019-08-01 11:51:48  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 11:51:48  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 11:51:48  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 11:52:00  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 11:52:00  INFO [pages.MainPage] : login successfully
+2019-08-01 11:52:01  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 11:52:04  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (650ce3cf6d792c0ba18104880e83fc30)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 11:52:16  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 11:52:17  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (650ce3cf6d792c0ba18104880e83fc30)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 11:52:18  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (650ce3cf6d792c0ba18104880e83fc30)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 11:52:18  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (650ce3cf6d792c0ba18104880e83fc30)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 11:52:18  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 11:52:19  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (650ce3cf6d792c0ba18104880e83fc30)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 11:52:27  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 11:52:27  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (650ce3cf6d792c0ba18104880e83fc30)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 11:52:28  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (650ce3cf6d792c0ba18104880e83fc30)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 11:52:28  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (650ce3cf6d792c0ba18104880e83fc30)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 11:53:18  INFO [pages.MainPage] : Site has been opened
+2019-08-01 11:53:25  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 11:53:26  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 11:53:26  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 11:53:34  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 11:53:34  INFO [pages.MainPage] : login successfully
+2019-08-01 11:53:34  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 11:53:38  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (4d667f1f646ef87be14a03e76b578243)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 11:53:46  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 11:53:47  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (4d667f1f646ef87be14a03e76b578243)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 11:53:47  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (4d667f1f646ef87be14a03e76b578243)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 11:53:48  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (4d667f1f646ef87be14a03e76b578243)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 11:53:48  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 11:53:48  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (4d667f1f646ef87be14a03e76b578243)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 11:53:58  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 11:53:58  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (4d667f1f646ef87be14a03e76b578243)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 11:53:59  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (4d667f1f646ef87be14a03e76b578243)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 11:54:00  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (4d667f1f646ef87be14a03e76b578243)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 11:55:13  INFO [pages.MainPage] : Site has been opened
+2019-08-01 11:55:20  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 11:55:21  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 11:55:21  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 11:55:29  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 11:55:29  INFO [pages.MainPage] : login successfully
+2019-08-01 11:55:29  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 11:55:33  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (2fb65a60688b8d2ea4f68315ace49b45)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 11:55:42  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 11:55:42  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (2fb65a60688b8d2ea4f68315ace49b45)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 11:55:57  ERROR [libs.ActionsWithOurElements] : Can't work with element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i'
+2019-08-01 11:56:40  INFO [pages.MainPage] : Site has been opened
+2019-08-01 11:56:47  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 11:56:48  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 11:56:48  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 11:56:55  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 11:56:55  INFO [pages.MainPage] : login successfully
+2019-08-01 11:56:56  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 11:56:59  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (89f1b01a4a0fd46c7468f4a90ca79cad)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 11:57:08  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 11:57:08  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (89f1b01a4a0fd46c7468f4a90ca79cad)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 11:57:09  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (89f1b01a4a0fd46c7468f4a90ca79cad)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 11:57:09  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (89f1b01a4a0fd46c7468f4a90ca79cad)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 11:57:09  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 11:57:10  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (89f1b01a4a0fd46c7468f4a90ca79cad)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 11:57:17  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 11:57:17  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (89f1b01a4a0fd46c7468f4a90ca79cad)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 11:57:18  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (89f1b01a4a0fd46c7468f4a90ca79cad)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 11:57:18  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (89f1b01a4a0fd46c7468f4a90ca79cad)] -> xpath: //*[@id='list-delete-confirm']] Element was clicked
+2019-08-01 12:00:31  INFO [pages.MainPage] : Site has been opened
+2019-08-01 12:00:39  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 12:00:40  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 12:00:40  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 12:00:47  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 12:00:47  INFO [pages.MainPage] : login successfully
+2019-08-01 12:00:48  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 12:00:51  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ee9bfa071a985494e6c59b6d04140a0c)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 12:01:01  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 12:01:01  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ee9bfa071a985494e6c59b6d04140a0c)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 12:01:02  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ee9bfa071a985494e6c59b6d04140a0c)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 12:01:02  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ee9bfa071a985494e6c59b6d04140a0c)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 12:01:02  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 12:01:02  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ee9bfa071a985494e6c59b6d04140a0c)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 12:01:10  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 12:01:10  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ee9bfa071a985494e6c59b6d04140a0c)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 12:01:11  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (ee9bfa071a985494e6c59b6d04140a0c)] -> xpath: //*[@id='list-settings-container']] Element was clicked
+2019-08-01 12:01:17  ERROR [libs.ActionsWithOurElements] : Can't work with element: [[ChromeDriver: chrome on XP (ee9bfa071a985494e6c59b6d04140a0c)] -> xpath: //*[@id='list-delete-confirm']]
+2019-08-01 12:03:54  INFO [pages.MainPage] : Site has been opened
+2019-08-01 12:04:01  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 12:04:02  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 12:04:02  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 12:04:09  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 12:04:09  INFO [pages.MainPage] : login successfully
+2019-08-01 12:04:09  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 12:04:13  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7a5dce613cd429f6bf5860d5bbb835bc)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 12:04:23  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 12:04:23  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7a5dce613cd429f6bf5860d5bbb835bc)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 12:04:24  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7a5dce613cd429f6bf5860d5bbb835bc)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 12:04:24  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7a5dce613cd429f6bf5860d5bbb835bc)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 12:04:24  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 12:04:24  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7a5dce613cd429f6bf5860d5bbb835bc)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 12:04:34  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 12:04:34  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7a5dce613cd429f6bf5860d5bbb835bc)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 12:04:35  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7a5dce613cd429f6bf5860d5bbb835bc)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 12:04:35  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (7a5dce613cd429f6bf5860d5bbb835bc)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 12:06:50  INFO [pages.MainPage] : Site has been opened
+2019-08-01 12:06:57  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 12:06:57  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 12:06:57  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 12:07:05  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 12:07:05  INFO [pages.MainPage] : login successfully
+2019-08-01 12:07:06  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 12:07:09  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 12:07:18  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 12:07:18  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 12:07:19  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 12:07:19  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 12:07:20  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 12:07:20  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 12:07:27  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 12:07:27  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 12:07:28  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 12:07:28  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 12:07:28  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 12:07:28  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (3f45163ba6dc045a20402641366462a6)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 12:15:23  INFO [pages.MainPage] : Site has been opened
+2019-08-01 12:15:30  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 12:15:31  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 12:15:31  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 12:15:38  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 12:15:38  INFO [pages.MainPage] : login successfully
+2019-08-01 12:15:39  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 12:15:42  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 12:15:51  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 12:15:51  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 12:15:52  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 12:15:52  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 12:15:53  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 12:15:53  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 12:16:00  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 12:16:00  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 12:16:01  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 12:16:01  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 12:16:01  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id='list-delete-confirm']] Element was clicked
+2019-08-01 12:16:01  ERROR [libs.ActionsWithOurElements] : Can't work with element: [[ChromeDriver: chrome on XP (594767613d85aa9bcaf1116a61c9de76)] -> xpath: //*[@id='list-delete-confirm-announce']]
+2019-08-01 12:19:54  INFO [pages.MainPage] : Site has been opened
+2019-08-01 12:20:01  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 12:20:02  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 12:20:02  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 12:20:10  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 12:20:10  INFO [pages.MainPage] : login successfully
+2019-08-01 12:20:10  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 12:20:13  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (a80fe5e13bb942688751f2713ee4a73c)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 12:20:22  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 12:20:23  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (a80fe5e13bb942688751f2713ee4a73c)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 12:20:23  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (a80fe5e13bb942688751f2713ee4a73c)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 12:20:24  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (a80fe5e13bb942688751f2713ee4a73c)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 12:20:24  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 12:20:24  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (a80fe5e13bb942688751f2713ee4a73c)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 12:20:31  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 12:20:31  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (a80fe5e13bb942688751f2713ee4a73c)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 12:20:32  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (a80fe5e13bb942688751f2713ee4a73c)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 12:20:32  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (a80fe5e13bb942688751f2713ee4a73c)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 14:02:57  INFO [pages.MainPage] : Site has been opened
+2019-08-01 14:03:05  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 14:03:06  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 14:03:06  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 14:03:14  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 14:03:14  INFO [pages.MainPage] : login successfully
+2019-08-01 14:03:14  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 14:03:17  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (9b9ca5faa8265b950091524bfe701887)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 14:03:27  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 14:03:27  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (9b9ca5faa8265b950091524bfe701887)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 14:03:42  ERROR [libs.ActionsWithOurElements] : Can't work with element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i'
+2019-08-01 14:04:30  INFO [pages.MainPage] : Site has been opened
+2019-08-01 14:04:38  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 14:04:38  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 14:04:38  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 14:04:46  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 14:04:46  INFO [pages.MainPage] : login successfully
+2019-08-01 14:04:46  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 14:04:49  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39312df442115cba153f2aa25004d1e4)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 14:04:59  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 14:04:59  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39312df442115cba153f2aa25004d1e4)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 14:05:00  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39312df442115cba153f2aa25004d1e4)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 14:05:00  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39312df442115cba153f2aa25004d1e4)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 14:05:00  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 14:05:01  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39312df442115cba153f2aa25004d1e4)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 14:05:08  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 14:05:08  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39312df442115cba153f2aa25004d1e4)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 14:05:09  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39312df442115cba153f2aa25004d1e4)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 14:05:09  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (39312df442115cba153f2aa25004d1e4)] -> xpath: //*[@id='list-delete-cancel']/span/input] Element was clicked
+2019-08-01 14:32:26  INFO [pages.MainPage] : Site has been opened
+2019-08-01 14:32:33  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 14:32:34  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 14:32:34  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 14:32:41  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 14:32:41  INFO [pages.MainPage] : login successfully
+2019-08-01 14:32:42  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 14:32:45  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f576dc22c3a10a9a37bedec925224145)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 14:32:55  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 14:32:55  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f576dc22c3a10a9a37bedec925224145)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 14:32:56  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f576dc22c3a10a9a37bedec925224145)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 14:32:56  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f576dc22c3a10a9a37bedec925224145)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 14:32:56  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 14:32:56  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f576dc22c3a10a9a37bedec925224145)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 14:33:04  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 14:33:04  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f576dc22c3a10a9a37bedec925224145)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 14:33:05  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (f576dc22c3a10a9a37bedec925224145)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 14:33:15  ERROR [libs.ActionsWithOurElements] : Can't work with element: [[ChromeDriver: chrome on XP (f576dc22c3a10a9a37bedec925224145)] -> xpath: //*[@id='list-delete-cancel']]
+2019-08-01 14:34:19  INFO [pages.MainPage] : Site has been opened
+2019-08-01 14:34:27  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 14:34:27  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 14:34:27  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 14:34:35  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 14:34:35  INFO [pages.MainPage] : login successfully
+2019-08-01 14:34:35  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 14:34:39  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c76c5603a20080752e6cfe4be9dbefb4)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 14:34:49  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 14:34:49  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c76c5603a20080752e6cfe4be9dbefb4)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 14:34:50  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c76c5603a20080752e6cfe4be9dbefb4)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 14:34:50  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c76c5603a20080752e6cfe4be9dbefb4)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 14:34:50  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 14:34:50  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c76c5603a20080752e6cfe4be9dbefb4)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 14:34:58  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 14:34:58  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c76c5603a20080752e6cfe4be9dbefb4)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 14:34:59  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c76c5603a20080752e6cfe4be9dbefb4)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 14:35:04  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (c76c5603a20080752e6cfe4be9dbefb4)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 14:35:43  INFO [pages.MainPage] : Site has been opened
+2019-08-01 14:35:50  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 14:35:50  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 14:35:50  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 14:35:58  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 14:35:58  INFO [pages.MainPage] : login successfully
+2019-08-01 14:35:58  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 14:36:01  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (66f7e506d10f1990c22c0268e10190de)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 14:36:10  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 14:36:11  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (66f7e506d10f1990c22c0268e10190de)] -> xpath: //*[@id='wishListMainButton']] Element was clicked
+2019-08-01 14:36:11  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (66f7e506d10f1990c22c0268e10190de)] -> xpath: //*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i] Element was clicked
+2019-08-01 14:36:12  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (66f7e506d10f1990c22c0268e10190de)] -> xpath: //*[@id="WLNEW_privacy_private"]/span/input] Element was clicked
+2019-08-01 14:36:12  INFO [libs.ActionsWithOurElements] : My list was inputted into Input
+2019-08-01 14:36:12  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (66f7e506d10f1990c22c0268e10190de)] -> xpath: //*[@id="WLHUC_result"]/form/div[2]/span[3]/span/span/input] Element was clicked
+2019-08-01 14:36:19  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="wl-huc-post-create-msg"]/div/div[2]/span[1]/span/a' Element was clicked
+2019-08-01 14:36:19  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (66f7e506d10f1990c22c0268e10190de)] -> xpath: //*[@id='editYourList']] Element was clicked
+2019-08-01 14:36:20  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (66f7e506d10f1990c22c0268e10190de)] -> xpath: //*[@id='list-settings-container']/span/span/span/input] Element was clicked
+2019-08-01 14:36:21  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (66f7e506d10f1990c22c0268e10190de)] -> xpath: //*[@id='list-delete-confirm']/span/input] Element was clicked
+2019-08-01 14:46:05  INFO [pages.MainPage] : Site has been opened
+2019-08-01 14:46:12  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 14:46:12  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 14:46:13  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 14:46:24  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 14:46:24  INFO [pages.MainPage] : login successfully
+2019-08-01 14:46:24  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 14:46:29  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (d80f11d359030bc60f0051d087fa377d)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 14:46:39  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 14:53:10  INFO [pages.MainPage] : Site has been opened
+2019-08-01 14:53:17  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 14:53:17  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 14:53:17  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 14:53:25  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 14:53:25  INFO [pages.MainPage] : login successfully
+2019-08-01 14:53:25  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 14:53:28  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (cd9e81e75f4d2d24a661485640fd9725)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 14:53:37  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 14:53:45  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='add-to-cart-button']' Element was clicked
+2019-08-01 15:06:41  INFO [pages.MainPage] : Site has been opened
+2019-08-01 15:06:48  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 15:06:49  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 15:06:49  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 15:06:56  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 15:06:56  INFO [pages.MainPage] : login successfully
+2019-08-01 15:06:56  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 15:07:00  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (283b8899b0d86cd883b116042b659f04)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 15:07:10  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 15:07:19  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='add-to-cart-button']' Element was clicked
+2019-08-01 15:07:27  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='hlb-view-cart-announce']' Element was clicked
+2019-08-01 15:07:27  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (283b8899b0d86cd883b116042b659f04)] -> xpath: //*[@id='activeCartViewForm']/div[2]/div/div[4]/div/div[1]/div/div/div[2]/div/span[1]/span/input] Element was clicked
+2019-08-01 15:18:45  INFO [pages.MainPage] : Site has been opened
+2019-08-01 15:18:53  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="nav-flyout-ya-signin"]/a/span' Element was clicked
+2019-08-01 15:18:53  INFO [libs.ActionsWithOurElements] : 4mytst@gmail.com was inputted into Input
+2019-08-01 15:18:53  INFO [libs.ActionsWithOurElements] : test4tst was inputted into Input
+2019-08-01 15:19:01  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.id: signInSubmit' Element was clicked
+2019-08-01 15:19:01  INFO [pages.MainPage] : login successfully
+2019-08-01 15:19:02  INFO [libs.ActionsWithOurElements] : 1984 george orwell hardcover was inputted into Input
+2019-08-01 15:19:05  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (aba9458ccfacebdaab473ff0fdff5114)] -> xpath: //*[@id='nav-search']/form/div[2]/div/input] Element was clicked
+2019-08-01 15:19:14  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='result_0']/div/div/div/div[2]/div[2]/div[1]/a/h2' Element was clicked
+2019-08-01 15:19:22  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='add-to-cart-button']' Element was clicked
+2019-08-01 15:19:30  INFO [libs.ActionsWithOurElements] : Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='hlb-view-cart-announce']' Element was clicked
+2019-08-01 15:19:30  INFO [libs.ActionsWithOurElements] : [[ChromeDriver: chrome on XP (aba9458ccfacebdaab473ff0fdff5114)] -> xpath: //*[@id='activeCartViewForm']/div[2]/div/div[4]/div/div[1]/div/div/div[2]/div/span[1]/span/input] Element was clicked

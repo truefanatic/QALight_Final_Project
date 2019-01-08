@@ -18,6 +18,12 @@ public class WishListPage extends ParentPage {
     @FindBy(xpath = "//*[@id='list-delete-confirm']/span/input")
     private WebElement confirmDeleteListButton;
 
+    @FindBy(xpath = "//*[@id='list-delete-cancel']")
+    private WebElement confirmDeleteListButton2;
+
+    @FindBy(xpath = "//*[@id='list-delete-confirm-announce']")
+    private WebElement confirmDeleteListButton3;
+
     public WishListPage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -26,6 +32,10 @@ public class WishListPage extends ParentPage {
         actionsWithOurElements.moveToOurElement(workWithListFocus);
         actionsWithOurElements.clickOnElement(manageListButton);
         actionsWithOurElements.clickOnElement(deleteListButton);
+        try {
+            Thread.sleep(1000);
+        } catch (Exception e) {
+        }
         actionsWithOurElements.clickOnElement(confirmDeleteListButton);
     }
 }

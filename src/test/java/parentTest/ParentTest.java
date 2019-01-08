@@ -1,15 +1,13 @@
 package parentTest;
 
-import com.gargoylesoftware.htmlunit.Page;
 import org.junit.Assert;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import pages.CartPage;
 import pages.ItemPage;
 import pages.MainPage;
 import pages.WishListPage;
-import wishlist.WishList;
-
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
@@ -19,6 +17,7 @@ public class ParentTest {
     protected MainPage mainPage;
     protected ItemPage itemPage;
     protected WishListPage wishListPage;
+    protected CartPage cartPage;
 
     @Before
     public void setUp() {
@@ -30,6 +29,7 @@ public class ParentTest {
         mainPage = new MainPage(webDriver);
         itemPage = new ItemPage(webDriver);
         wishListPage = new WishListPage(webDriver);
+        cartPage = new CartPage(webDriver);
     }
 
 //    @After

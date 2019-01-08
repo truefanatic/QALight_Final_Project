@@ -27,6 +27,12 @@ public class ItemPage extends ParentPage {
     @FindBy(xpath = "//*[@id=\"wl-huc-post-create-msg\"]/div/div[2]/span[1]/span/a")
     private WebElement toWishListButton;
 
+    @FindBy(xpath = "//*[@id='add-to-cart-button']")
+    private WebElement addToCartButton;
+
+    @FindBy(xpath = "//*[@id='hlb-view-cart-announce']")
+    private WebElement toCartButton;
+
     public ItemPage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -38,6 +44,11 @@ public class ItemPage extends ParentPage {
         actionsWithOurElements.enterTextInToElement(wishListNameInput, name);
         actionsWithOurElements.clickOnElement(submitWishListButton);
         actionsWithOurElements.clickOnElement(toWishListButton);
+    }
+
+    public void addToCart() {
+        actionsWithOurElements.clickOnElement(addToCartButton);
+        actionsWithOurElements.clickOnElement(toCartButton);
     }
 
     public String checkItemHeader() {
