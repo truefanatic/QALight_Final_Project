@@ -1,5 +1,6 @@
 package wishlist;
 
+import org.junit.After;
 import org.junit.Test;
 import parentTest.ParentTest;
 
@@ -13,4 +14,10 @@ public class WishList extends ParentTest {
         mainPage.clickFirstItem();
         itemPage.createWishList("My list");
     }
+
+    @After
+    public void clear() {
+        wishListPage.deleteList();
+    }
+
 }

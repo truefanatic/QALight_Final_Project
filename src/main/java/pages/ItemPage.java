@@ -24,7 +24,7 @@ public class ItemPage extends ParentPage {
     @FindBy(id = "WLNEW_list_name")
     private WebElement wishListNameInput;
 
-    @FindBy(id = "//*[@id=\"wl-huc-post-create-msg\"]/div/div[2]/span[1]/span/a")
+    @FindBy(xpath = "//*[@id=\"wl-huc-post-create-msg\"]/div/div[2]/span[1]/span/a")
     private WebElement toWishListButton;
 
     public ItemPage(WebDriver webDriver) {
@@ -37,6 +37,7 @@ public class ItemPage extends ParentPage {
         actionsWithOurElements.clickOnElement(privateButton);
         actionsWithOurElements.enterTextInToElement(wishListNameInput, name);
         actionsWithOurElements.clickOnElement(submitWishListButton);
+        actionsWithOurElements.clickOnElement(toWishListButton);
     }
 
     public String checkItemHeader() {

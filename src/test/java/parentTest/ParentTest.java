@@ -7,6 +7,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pages.ItemPage;
 import pages.MainPage;
+import pages.WishListPage;
+import wishlist.WishList;
 
 
 import java.io.File;
@@ -16,6 +18,7 @@ public class ParentTest {
     private WebDriver webDriver;
     protected MainPage mainPage;
     protected ItemPage itemPage;
+    protected WishListPage wishListPage;
 
     @Before
     public void setUp() {
@@ -26,6 +29,7 @@ public class ParentTest {
         webDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         mainPage = new MainPage(webDriver);
         itemPage = new ItemPage(webDriver);
+        wishListPage = new WishListPage(webDriver);
     }
 
 //    @After
