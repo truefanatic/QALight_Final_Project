@@ -1,5 +1,6 @@
 package parentTest;
 
+import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
@@ -32,16 +33,8 @@ public class ParentTest {
         cartPage = new CartPage(webDriver);
     }
 
-//    @After
-//    public void tearDown() {
-//        webDriver.quit();
-//    }
-
-    public void checkExpectedResult(String message, boolean actualResult, boolean expectedResult) {
-        Assert.assertEquals(message, expectedResult, actualResult);
-    }
-
-    public void checkExpectedResult(String message, boolean actualResult) {
-        checkExpectedResult(message, actualResult, true);
+    @After
+    public void tearDown() {
+        webDriver.quit();
     }
 }

@@ -18,11 +18,24 @@ public class WishListPage extends ParentPage {
     @FindBy(xpath = "//*[@id='list-delete-confirm']/span/input")
     private WebElement confirmDeleteListButton;
 
-    @FindBy(xpath = "//*[@id='list-delete-cancel']")
-    private WebElement confirmDeleteListButton2;
+    @FindBy(xpath = "//*[@id='profile-list-name']")
+    private WebElement listName;
 
-    @FindBy(xpath = "//*[@id='list-delete-confirm-announce']")
-    private WebElement confirmDeleteListButton3;
+    @FindBy(xpath = "//*[@id='createList']")
+    private WebElement createListbutton;
+
+    @FindBy(xpath = "//*[@id='WLNEW_section_wlType']/div[2]/div[2]/div/div/span/div/label/i")
+    private WebElement wishListCheckBox;
+
+    @FindBy(xpath = "//*[@id='WLNEW_privacy_private']/span/input")
+    private WebElement privateButton;
+
+    @FindBy(xpath = "//*[@id='WLNEW_create']/span/span/input")
+    private WebElement submitWishListButton;
+
+    @FindBy(id = "WLNEW_list_name")
+    private WebElement wishListNameInput;
+
 
     public WishListPage(WebDriver webDriver) {
         super(webDriver);
@@ -32,10 +45,23 @@ public class WishListPage extends ParentPage {
         actionsWithOurElements.moveToOurElement(workWithListFocus);
         actionsWithOurElements.clickOnElement(manageListButton);
         actionsWithOurElements.clickOnElement(deleteListButton);
-        try {
-            Thread.sleep(1000);
-        } catch (Exception e) {
-        }
+        waitSec(2);
         actionsWithOurElements.clickOnElement(confirmDeleteListButton);
+    }
+
+    public String checkListName() {
+        return listName.getText();
+    }
+
+    public void creteList() {
+        actionsWithOurElements.clickOnElement(createListbutton);
+    }
+
+    public void createWishList(String name) {
+        actionsWithOurElements.clickOnElement(wishListCheckBox);
+        actionsWithOurElements.clickOnElement(privateButton);
+        actionsWithOurElements.enterTextInToElement(wishListNameInput, name);
+        actionsWithOurElements.clickOnElement(submitWishListButton);
+        waitSec(2);
     }
 }

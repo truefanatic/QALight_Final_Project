@@ -2,7 +2,6 @@ package libs;
 
 import org.apache.log4j.Logger;
 import org.junit.Assert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -42,21 +41,13 @@ public class ActionsWithOurElements {
         }
     }
 
-    public boolean isElementDisplayed(By by) {
-        try {
-            return isElementDisplayed(webDriver.findElement(by));
-        } catch (Exception e) {
-            return false;
-        }
-    }
-
-    public boolean isElementDisplayed(WebElement element) {
-        try {
-            return element.isDisplayed();
-        } catch (Exception e) {
-            return false;
-        }
-    }
+//    public boolean isElementDisplayed(WebElement element) {
+//        try {
+//            return element.isDisplayed();
+//        } catch (Exception e) {
+//            return false;
+//        }
+//    }
 
     public void moveToOurElement(WebElement element) {
         Actions action = new Actions(webDriver);
