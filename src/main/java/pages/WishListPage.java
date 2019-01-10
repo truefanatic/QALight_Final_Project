@@ -44,8 +44,9 @@ public class WishListPage extends ParentPage {
     public void deleteList() {
         actionsWithOurElements.moveToOurElement(workWithListFocus);
         actionsWithOurElements.clickOnElement(manageListButton);
+        waitSec(1000);
         actionsWithOurElements.clickOnElement(deleteListButton);
-        waitSec(2);
+        waitSec(2000);
         actionsWithOurElements.clickOnElement(confirmDeleteListButton);
     }
 
@@ -62,6 +63,6 @@ public class WishListPage extends ParentPage {
         actionsWithOurElements.clickOnElement(privateButton);
         actionsWithOurElements.enterTextInToElement(wishListNameInput, name);
         actionsWithOurElements.clickOnElement(submitWishListButton);
-        waitSec(2);
+        waitSec(2000);
     }
 }

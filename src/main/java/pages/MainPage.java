@@ -26,7 +26,7 @@ public class MainPage extends ParentPage {
     private WebElement userName;
     @FindBy(xpath = "//*[@id='nav-item-signout']/span")
     private WebElement logoutButton;
-    @FindBy(xpath = "//*[@id='nav-flyout-wl-items']")
+    @FindBy(xpath = "//*[@id='nav-flyout-wl-items']/div/a[1]/span")
     private WebElement shoppingListButton;
 
 
@@ -70,9 +70,9 @@ public class MainPage extends ParentPage {
     }
 
     public void logOut() {
-        waitSec(2);
+        waitSec(2000);
         actionsWithOurElements.moveToOurElement(openMenu);
-        waitSec(2);
+        waitSec(2000);
         actionsWithOurElements.clickOnElement(logoutButton);
     }
 

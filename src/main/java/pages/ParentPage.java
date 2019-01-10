@@ -16,9 +16,9 @@ abstract public class ParentPage {
         actionsWithOurElements = new ActionsWithOurElements(webDriver);
     }
 
-    public void waitSec(int seconds) {
+    public void waitSec(int miliSeconds) {
         try {
-            Thread.sleep(seconds * 1000);
+            Thread.sleep(miliSeconds);
         } catch (Exception e) {
             logger.info(e);
         }
